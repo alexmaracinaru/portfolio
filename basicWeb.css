@@ -71,13 +71,13 @@ header .logo {
   color: white;
 }
 .rc {
-  background-image: url(./S1/IMGs/RC.png);
+  background-image: url(./IMGs/RC.png);
 }
 .mc {
-  background-image: url(./S1/IMGs/MC.png);
+  background-image: url(./IMGs/MC.png);
 }
 .pt {
-  background-image: url(./S1/IMGs/PT.png);
+  background-image: url(./IMGs/PT.png);
 }
 .projects h1 {
   font-family: Didot;
