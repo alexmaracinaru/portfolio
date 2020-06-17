@@ -1,31 +1,3 @@
-/* * {
-  background-color: rgba(255, 0, 0, 0.2);
-}
-* * {
-  background-color: rgba(0, 255, 0, 0.2);
-}
-* * * {
-  background-color: rgba(0, 0, 255, 0.2);
-}
-* * * * {
-  background-color: rgba(255, 0, 255, 0.2);
-}
-* * * * * {
-  background-color: rgba(0, 255, 255, 0.2);
-}
-* * * * * * {
-  background-color: rgba(255, 255, 0, 0.2);
-}
-* * * * * * * {
-  background-color: rgba(255, 0, 0, 0.2);
-}
-* * * * * * * * {
-  background-color: rgba(0, 255, 0, 0.2);
-}
-* * * * * * * * * {
-  background-color: rgba(0, 0, 255, 0.2);
-} */
-
 * {
   margin: 0;
   padding: 0;
@@ -128,7 +100,7 @@ header .logo {
 }
 .section2 {
   height: 100vh;
-  background-image: url("./S1/IMGs/BgBasicUX.png");
+  background-image: url("./IMGs/BgBasicUX.png");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -208,7 +180,7 @@ header .logo {
 }
 .section4 {
   height: 100vh;
-  background-image: url("./S1/IMGs/BgContent.png");
+  background-image: url("./IMGs/BgContent.png");
   background-position: center;
   background-size: cover;
   display: flex;
