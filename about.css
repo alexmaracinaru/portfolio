@@ -11,7 +11,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-image: url("./S1/IMGs/BgAbout.png");
+  background-image: url("./IMGs/BgAbout.png");
   background-size: cover;
 }
 header {
