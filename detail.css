@@ -67,16 +67,16 @@ header .logo {
   height: 600px;
 }
 .mc {
-  background-image: url("./S1/IMGs/MC-detail.png");
+  background-image: url("./IMGs/MC-detail.png");
 }
 .rc {
-  background-image: url("./S1/IMGs/RC-detail.png");
+  background-image: url("./IMGs/RC-detail.png");
 }
 .pt {
-  background-image: url("./S1/IMGs/PT-detail.png");
+  background-image: url("./IMGs/PT-detail.png");
 }
 .ds {
-  background-image: url("./S1/IMGs/DesignSprint.png");
+  background-image: url("./IMGs/DesignSprint.png");
   filter: grayscale();
 }
 .btn_view {
